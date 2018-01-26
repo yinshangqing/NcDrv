@@ -1,0 +1,1 @@
+cmd_/root/mywork/nc_qt/output/NcDrv/NcDrv.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /root/mywork/nc_qt/output/NcDrv/NcDrv.ko /root/mywork/nc_qt/output/NcDrv/NcDrv.o /root/mywork/nc_qt/output/NcDrv/NcDrv.mod.o
